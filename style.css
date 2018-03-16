@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #333;
+}
+
+.container {
+  text-align: center;
+  height: 100vh;
+  color: beige;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#guess-input {
+  background: #333;
+  color: beige;
+}
+
+#guess-btn {
+  color: beige;
+}
