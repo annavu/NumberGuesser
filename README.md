@@ -1,3 +1,3 @@
 # NumberGuesser
-game based on a course
+game based on a JS course (Traversy Media)
 - JavaScript
